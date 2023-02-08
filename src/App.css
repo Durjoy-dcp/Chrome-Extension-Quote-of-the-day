@@ -4,6 +4,11 @@
   padding: 10px;
   min-width: 450px;
   font-size: 20px;
+  color: white;
+  background-image: url("../public/bg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 button {
   color: white;

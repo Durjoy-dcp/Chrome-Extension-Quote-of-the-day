@@ -16,8 +16,9 @@ function App() {
 
   return (
     <div className="App">
+      <p>Quote of the day</p>
       <h5>{quote.content} </h5>
-      <button onClick={showQuote}>Fetch</button>
+      <button onClick={showQuote}>Quote for you</button>
     </div>
   );
 }
