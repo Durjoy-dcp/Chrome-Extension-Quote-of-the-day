@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+  border: 1px solid tomato;
+  padding: 10px;
+}
+button {
+  color: white;
+  background-color: skyblue;
+  padding: 10px 20px;
+  border: none;
+  font-size: 17px;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: rgb(89, 185, 222);
 }
 
 .App-logo {
