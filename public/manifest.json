@@ -5,6 +5,10 @@
   "description": "Look your quote of the day to get motivation",
   "action": {
     "default_popup": "index.html",
-    "default_title": "React Chrome Extension-Quote of the day"
+    "default_title": "React Chrome Extension-Quote of the day",
+    "default_icon": {
+      "16": "icon.png",
+      "228": "icon.png"
+    }
   }
 }
