@@ -1,4 +1,4 @@
-# Quote of the day
+# Chrome Extension : Quote of the day
 
 Do you need motivation? Do you need Quote to design your life colourful? Or choosing the best track to success?
 Motivation is the driving force behind our actions and helps us to achieve our goals. It gives us the energy and determination to push through challenges and keep moving forward, even when things get tough. 
